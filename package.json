@@ -1,0 +1,31 @@
+{
+  "name": "freshprince",
+  "version": "0.0.1",
+  "description": "An ipsum generator with flavour",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgreav/FreshPrince.git"
+  },
+  "keywords": [
+    "will",
+    "smith",
+    "fresh",
+    "prince",
+    "lorem",
+    "ipsum",
+    "high",
+    "quality",
+    "meme"
+  ],
+  "author": "Hanna & Eve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgreav/FreshPrince/issues"
+  },
+  "homepage": "https://github.com/sgreav/FreshPrince#readme"
+}
