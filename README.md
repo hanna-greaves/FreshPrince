@@ -7,3 +7,7 @@ ___________.__             ___________                     .__      __________  
                 \/     \/       \/                \/     \/     \/                            \/     \/    \/ 
 ```
 The Fresh Prince of Bel Ipsum
+--
+![Will](./will.gif)
+
+Have you ever wanted temporary boilerplate text that was a bit less Lorem and a bit more Smith? Use this project to generate your Ipsums with a Bel Air flair...
